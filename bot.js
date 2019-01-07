@@ -1,7 +1,7 @@
 //ログイン処理
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'ここにBotのToken';
+const token = 'ここにBotのToken'; 1NTMxNzU2NDY5ODUxNTIxMDI0.DxSk5Q.YEwhlJR7DiCH0ATpwzOUVEkAPKo
 client.on('ready', () => {
     console.log('ready...');
 });
@@ -14,4 +14,4 @@ client.on('message', message =>{
 
 //↑ここに後述のコードをコピペする↑
 });
-client.login(token); NTMxNzU2NDY5ODUxNTIxMDI0.DxSk5Q.YEwhlJR7DiCH0ATpwzOUVEkAPKo
+client.login(token); 
